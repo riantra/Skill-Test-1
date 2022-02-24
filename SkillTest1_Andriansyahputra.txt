@@ -1,0 +1,4 @@
+Nama : Andrian Syahputra
+Umur : 21 Tahun
+Stack : Fullstack 
+Bahasa Pemograman : Javascript
